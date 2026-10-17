@@ -20,3 +20,15 @@ You have 48 hours to remedy this. You must either:
 If you do not comply within this timeframe, I will file a formal DMCA takedown request with GitHub for copyright infringement of my intellectual property. I have preserved all timestamps, commit histories, and chat logs proving my authorship and the timeline of events.
 
 I would prefer to resolve this amicably, but I will protect my legal rights if necessary.
+
+
+
+Think you have permissions to all of the code because you wrote it first? Read this
+
+You are legally incorrect. Writing the 'original code' does not grant you ownership over the code I wrote.
+
+Unless I signed a Contributor License Agreement (CLA) or a contract explicitly transferring my copyright to you, I retain full copyright over the specific contributions I made to the repository. You cannot claim sole ownership of a project that contains my intellectual property, and you certainly cannot apply a CC BY-NC 4.0 license to my code retroactively.
+
+If you believe you own 100% of the code, then prove it by removing my contributions from the repository. If you keep my code in the repo, you do not have the right to license it, and you must credit me properly.
+
+I have my GitHub commit history and timestamps proving exactly what I wrote and when. My 48-hour demand stands. Either remove my code or fix the licensing and attribution.
