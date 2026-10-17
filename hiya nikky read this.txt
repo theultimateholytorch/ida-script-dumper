@@ -1,0 +1,22 @@
+To be clear: I am a co-author of this code. I contributed significant portions of the code in your repository prior to you applying the Creative Commons Attribution-NonCommercial 4.0 license.
+
+Here is why you are legally vulnerable and in violation of copyright law:
+
+    Retroactive Licensing is Invalid: You cannot unilaterally apply a new license to code that was already written, shared, and contributed by someone else. Because my contributions were made before your license existed, my code is not bound by your CC BY-NC 4.0 terms. You do not have the legal right to re-license my work.
+
+    Copyright Infringement: By claiming copyright over the entire repository and applying a license to it, you are infringing on my copyright as a co-author. You cannot distribute, license, or claim ownership over my specific code contributions without my explicit, written consent.
+
+    Violation of Your Own License: Your CC BY-NC 4.0 license explicitly requires "reasonable" attribution. Your current README refers to me as "theholyskid" and "ntgetdumbass." This is not reasonable attribution; it is derogatory and a direct violation of the license you are attempting to enforce.
+
+    Invalid DMCA Threats: Any attempt on your part to DMCA my repository (theultimatetorch/ida-script-dumper) will be legally invalid. I can easily prove via commit history and timestamps that my code predates your license. Filing a fraudulent DMCA claim against my repo would expose you to liability under 17 U.S.C. § 512(f).
+
+My Demand:
+You have 48 hours to remedy this. You must either:
+
+    Remove my code from your repository entirely, OR
+
+    Properly credit me in the README using my actual handle, and acknowledge in writing that my specific contributions are not bound by your CC BY-NC 4.0 license.
+
+If you do not comply within this timeframe, I will file a formal DMCA takedown request with GitHub for copyright infringement of my intellectual property. I have preserved all timestamps, commit histories, and chat logs proving my authorship and the timeline of events.
+
+I would prefer to resolve this amicably, but I will protect my legal rights if necessary.
